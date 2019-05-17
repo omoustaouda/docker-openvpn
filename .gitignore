@@ -1,1 +1,3 @@
 *~
+# Contains OpenVPN configurations and private certificates
+openvpn-data/
